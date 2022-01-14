@@ -21,5 +21,5 @@
 - [X] Toutes vos classes devront être specialisées (chaque methode devra être en lien avec la classe qui l'implemente).
 - [x] Touts les methodes de classe par laquelle on affiche les données devront préalablement être définit par une interface.
 - [x] La classe mère des type de Vehicule ne devra jamais être instantiable. 
-- [x] Une propriété devra être partagé par les Type de vehicule et devra être definit à l'instantiation de ceux-ci. Cette proriété est Moteur et reprente une     instance de classe classe  
+- [x] Une propriété devra être partagé par les Type de vehicule et devra être definit à l'instantiation de ceux-ci. Cette propriété est Moteur et représenter une     instance de cette classe.
 
