@@ -12,7 +12,10 @@
 > vehicules par son type et une permettant d'en supprimer un.
 
 ## Contraintes:
-- [x] Toutes les propriétées de classe devront être en privé sauf pour les classes parents.
-- [x] Il est interdit d'utiliser les constructeurs
-- [x] Seul les mutateurs et accesseurs sont autorisé 
+- [x] Toutes les propriétées de classe devront être en privées, sauf pour les classes parents.
+- [x] Il est interdit d'utiliser les constructeurs.
+- [x] Seul les mutateurs et accesseurs sont autorisés. 
+- [x] Il est strictement interdit de creer des fonction en dehors des classes.
+- [x] Il est interdit de répéter du code (DRY).
+- [X] Toutes vos classes devront être specialisées (chaque methode devra être en lien avec la classe qui l'implemente)
 
