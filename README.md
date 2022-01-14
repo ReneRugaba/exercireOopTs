@@ -17,7 +17,7 @@
 - [x] Toutes les propriétés de classe devront être en privées, sauf pour les classes parentes pour lesquelles on aura des propriétés protégées.
 - [x] Il est interdit d'utiliser les constructeurs.
 - [x] Seuls les mutateurs et accesseurs sont autorisés. 
-- [x] Il est strictement interdit de créer des fonction en dehors des classes.
+- [x] Il est strictement interdit de créer des fonctions en dehors des classes.
 - [x] Il est interdit de répéter du code (DRY).
 - [X] Toutes vos classes devront être specialisées (chaque methode devra être en lien avec la classe qui l'implemente).
 - [x] Toutes les méthodes de classe par laquelle on affiche les données devront préalablement être défini par une interface.
