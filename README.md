@@ -13,7 +13,7 @@
 > véhicules par son type et une permettant d'en supprimer un.
 
 ## Contraintes:
-- [x] Touver le moyen de sécuriser les valeurs du select lors du choix du type (on ne fait jamais confiance à un utilisateur).
+- [x] Trouver le moyen de sécuriser les valeurs du select lors du choix du type (on ne fait jamais confiance à un utilisateur).
 - [x] Toutes les propriétés de classe devront être en privées, sauf pour les classes parentes pour lesquelles on aura des propriétés protégées.
 - [x] Il est interdit d'utiliser les constructeurs.
 - [x] Seuls les mutateurs et accesseurs sont autorisés. 
