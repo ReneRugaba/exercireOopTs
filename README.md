@@ -1,7 +1,7 @@
 ### **exercireOopTs**
 
 > Le but de l'exercice est de créer un filtre permettant d'afficher des véhicules par leur
-> type dans une page web. Les trois types à affichersont:
+> type dans une page web. Les trois types à afficher sont:
 > * Voiture
 > * Moto
 > * Bateau 
