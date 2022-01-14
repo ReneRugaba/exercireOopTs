@@ -9,7 +9,7 @@
 
 > Ces types devront partager un même parent et serons des classes distinctes. Les propriétés de ces classes doivent être différentes. La classe permettant de
 > recuperer les datas à afficher n'est pas parent de ces derniers
-> et devra disposer d'une methode permettant de recuperer chaque data, une methode pour recuperer par type les datas, une methode permettant d'ajouter un 
+> et devra disposer d'une methode permettant de recuperer chaque data, une methode pour récupérer par type les datas, une methode permettant d'ajouter un 
 > vehicules par son type et une permettant d'en supprimer un.
 
 ## Contraintes:
@@ -21,5 +21,5 @@
 - [X] Toutes vos classes devront être specialisées (chaque methode devra être en lien avec la classe qui l'implemente).
 - [x] Touts les methodes de classe par laquelle on affiche les données devront préalablement être définit par une interface.
 - [x] La classe mère des type de Vehicule ne devra jamais être instantiable. 
-- [x] Une propriété devra être partagé par les Type de vehicule et devra être definit à l'instantiation de ceux-ci. Cette proriété est moteur et reprente une     instance de classe classe  
+- [x] Une propriété devra être partagé par les Type de vehicule et devra être definit à l'instantiation de ceux-ci. Cette proriété est Moteur et reprente une     instance de classe classe  
 
