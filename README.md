@@ -20,7 +20,7 @@
 - [x] Il est strictement interdit de créer des fonctions en dehors des classes.
 - [x] Il est interdit de répéter du code (DRY).
 - [X] Toutes vos classes devront être specialisées (chaque methode devra être en lien avec la classe qui l'implemente).
-- [x] Toutes les méthodes de classe par laquelle on affiche les données devront préalablement être défini par une interface.
+- [x] Toutes les méthodes, de la classe par laquelle on affiche les datas, devront préalablement être défini par une interface.
 - [x] La classe mère des types de Véhicule ne devra jamais être instanciable. 
 - [x] Une propriété devra être partagée par les Types de véhicule et devra être définit à l'instanciation de ceux-ci. Cette propriété est **Moteur** et représente une     instance de cette classe.
 
