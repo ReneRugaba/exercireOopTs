@@ -26,5 +26,6 @@
 
 
 
-_Cet exercice doit être fait en **TS** bien-sûr et pas de tests car le but ici est de monter en compétence sur la **Programmation Orientée Objet**_ :heavy_exclamation_mark::heavy_exclamation_mark:
+_Cet exercice doit être fait en **TS** bien-sûr et pas de tests car le but ici est de monter en compétence sur 
+la **Programmation Orientée Objet**_ :heavy_exclamation_mark::heavy_exclamation_mark:
 
