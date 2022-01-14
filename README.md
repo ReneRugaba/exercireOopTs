@@ -24,3 +24,5 @@
 - [x] La classe mère des types de Véhicule ne devra jamais être instanciable. 
 - [x] Une propriété devra être partagée par les Types de véhicule et devra être définit à l'instanciation de ceux-ci. Cette propriété est **Moteur** et représente une     instance de cette classe.
 
+
+_ Cette exercice doit être fait en **TS** biensur et pas de tests car le but ici est de monter en compétenece sur la **Programmation Orientée Objet** _ 
