@@ -4,5 +4,5 @@
 > type dans une page web. Les trois types à affichersont:
 > * Voiture
 > * Moto
-> * Bateau
+> * Bateau n/
 > Ces types devront partager un même parent et serons des class distinctes.
