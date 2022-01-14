@@ -5,3 +5,4 @@
 > * Voiture
 > * Moto
 > * Bateau
+> Ces types devront partager un même parent et serons des class distinctes.
